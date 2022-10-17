@@ -1,0 +1,8 @@
+requests
+shodan
+beautifulsoup4
+colored
+censys
+zoomeye
+pandas
+pyExploitDb
