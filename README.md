@@ -1,5 +1,3 @@
-# IP-Finder
-
 # :mag: IP-Finder :earth_americas:
 IP-Finder is an Open Source Intelligence (OSINT) tool that helps collect IPs of Companies, Servers, Operating Systems and much more.
 It also reports all CVEs (with the associated Metasploit module to run) for which different endpoints are affected.
